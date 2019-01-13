@@ -1,5 +1,6 @@
-# lottery
-
+# Lottery
+A simple lottery web app written with Vue,
+Vuex, and Vuetify.
 ## Project setup
 ```
 yarn install
